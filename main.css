@@ -57,6 +57,7 @@ ul.posts li {
 }
 #about {
     width: 100%;
+    max-width: 400;
     height: auto;
 }
 #special {
