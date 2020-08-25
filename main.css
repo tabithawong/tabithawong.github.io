@@ -48,16 +48,19 @@ footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
-
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
 }
-
 ul.posts li {
     list-style: none;
 }
-
+#about {
+    height: 600;
+    width: 400;
+    resize: both;
+    overflow: auto;
+}
 #special {
     font-size: 1.75em;
     font-weight: bold;
