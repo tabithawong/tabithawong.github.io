@@ -57,11 +57,6 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-#about {
-    width: 80%;
-    max-width: 200;
-    height: auto;
-}
 #special {
     font-size: 1.75em;
     font-weight: bold;
