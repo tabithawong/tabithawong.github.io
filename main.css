@@ -51,3 +51,8 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+special {
+    font-size: 1.75em;
+    font-weight: bold;
+}
