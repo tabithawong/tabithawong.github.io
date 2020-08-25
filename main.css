@@ -56,8 +56,8 @@ ul.posts li {
     list-style: none;
 }
 #about {
-    width: 40%;
-    max-width: 400;
+    width: 80%;
+    max-width: 200;
     height: auto;
 }
 #special {
