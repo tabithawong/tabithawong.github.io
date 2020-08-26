@@ -17,6 +17,7 @@
             </a>
             <div id= "pages">
             <ul>
+                <br>
 	        	<li><a class="grow" href="/about.html">about.</a></li>
                 <li><a class="grow" href="/projects.html">projects.</a></li>
                 <li><a class="grow" href="/resume.html">resume.</a></li>
@@ -33,6 +34,41 @@
                 <p>I am a huge fan of giraffes! I have a stuffed giraffe named Gerry whom I adore!</p>
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
+        <!-- The grid: four columns -->
+        <div class="row">
+          <div class="column">
+            <img src="gerry1.jpg" onclick="myFunction(this);">
+          </div>
+          <div class="column">
+            <img src="gerry2.jpg" onclick="myFunction(this);">
+          </div>
+          <div class="column">
+            <img src="gerry3.jpg" onclick="myFunction(this);">
+          </div>
+          <div class="column">
+            <img src="gerry4.jpg" onclick="myFunction(this);">
+          </div>
+          <div class="column">
+            <img src="gerry5.jpg" onclick="myFunction(this);">
+          </div>
+          <div class="column">
+            <img src="gerry6.jpg" onclick="myFunction(this);">
+          </div>
+          <div class="column">
+            <img src="gerry7.jpg" onclick="myFunction(this);">
+          </div>
+        </div>
+        <!-- The expanding image container -->
+        <div class="expand">
+          <!-- Close the image -->
+          <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+
+          <!-- Expanded image -->
+          <img id="expandedImg" style="width:100%">
+
+          <!-- Image text -->
+          <div id="imgtext"></div>
+        </div>
 		<footer>
     		<ul>
                 <li><a class="grow" href="https://www.linkedin.com/in/tabitha-wong/"target="_blank">linkedin.</a></li>
