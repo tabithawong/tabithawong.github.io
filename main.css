@@ -1,10 +1,10 @@
 body {
-    font-family:'Helvetica';
+    background-color: aliceblue;
     margin: 60px auto;
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'Helvetica';
+    font-family:'Garamond';
     padding: 0px;
     list-style: none;
     font-weight: bold;
