@@ -4,7 +4,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'Garamond';
+    font-family:'Helvetica';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -24,18 +24,18 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'Garamond';
+    font-family:'Helvetica';
 }
 h2 {
     font-size: 2em;
-    font-family:'Garamond';
+    font-family:'Helvetica';
 }
 h3 {
     font-size: 1.75em;
-    font-family:'Garamond';
+    font-family:'Helvetica';
 }
 p {
-    font-family:'Garamond';
+    font-family:'Helvetics';
     font-size: 1em;
     line-height: 1.4em;
     color: #333;
