@@ -20,8 +20,6 @@ a {
 a:hover {
     text-decoration: underline;
     color: rgb(0,0,0);
-    transition: all .2s ease-in-out; 
-    transform: scale(1.1); 
 }
 h1 {
     font-size: 3em;
@@ -77,6 +75,8 @@ ul.posts li {
     margin-right: auto;
 }
 #logo {
+    transition: all .2s ease-in-out; 
+    transform: scale(1.1); 
     width: 20%;
     max-width: 50;
     height: auto;
