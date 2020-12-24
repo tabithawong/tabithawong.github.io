@@ -17,7 +17,7 @@ a {
     text-decoration: none;
     color: #999;
 }
-a:hover {
+.grow:hover {
     text-decoration: underline;
     color: rgb(0,0,0);
 }
@@ -74,9 +74,7 @@ ul.posts li {
     margin-left: auto;
     margin-right: auto;
 }
-#logo {
-    transition: all .2s ease-in-out; 
-    transform: scale(1.1); 
+#logo { 
     width: 20%;
     max-width: 50;
     height: auto;
@@ -85,6 +83,8 @@ ul.posts li {
     float: right;
 }
 #conlogo {
+    transition: all .2s ease-in-out; 
+    transform: scale(1.1);
     width: 100;
     height: 100;
 }
