@@ -97,3 +97,21 @@ ul.posts li {
 .growlogo:hover {
     transform: scale(1.1);
 }
+
+.header {
+   padding: 10px 16px; 
+}
+
+.content {
+    padding: 16 px;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.sticky + content {
+    padding-top: 102 px;
+}
