@@ -97,15 +97,3 @@ ul.posts li {
 .growlogo:hover {
     transform: scale(1.1);
 }
-
-.header {
-    padding: 10px 16px 10px 16px;
-    align-items: flex-start;
-    background: rgb(243, 242, 255);
-    color: #f1f1f1;
-    position: fixed;
-  }
-
-  .container{
-      padding-top: 16px;
-  }
