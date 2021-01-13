@@ -100,6 +100,7 @@ ul.posts li {
 
 .header {
    padding: 10px 16px; 
+   position: fixed;
 }
 
 .content {
