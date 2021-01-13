@@ -100,11 +100,11 @@ ul.posts li {
 
 .header {
     padding: 10px 16px;
-    background: rgb(221, 214, 255);
+    background: rgb(36, 29, 68);
     color: #f1f1f1;
   }
 
-  .content {
+  .container {
     padding: 16px;
   }
   
@@ -114,6 +114,6 @@ ul.posts li {
     width: 100%
   }
   
- .sticky + .content {
+ .sticky + .container {
     padding-top: 102px;
   }
