@@ -99,19 +99,21 @@ ul.posts li {
 }
 
 .header {
-   padding: 10px 16px; 
-}
+    padding: 10px 16px;
+    background: #555;
+    color: #f1f1f1;
+  }
 
-.content {
-    padding: 16 px;
-}
-
-.sticky {
+  .content {
+    padding: 16px;
+  }
+  
+ .sticky {
     position: fixed;
     top: 0;
-    width: 100%;
-}
-
-.sticky + content {
-    padding-top: 102 px;
-}
+    width: 100%
+  }
+  
+ .sticky + .content {
+    padding-top: 102px;
+  }
