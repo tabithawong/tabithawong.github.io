@@ -99,8 +99,12 @@ ul.posts li {
 }
 
 .header {
-    padding: 10px 16px;
+    padding: 10px 16px 10px 16px;
     background: rgb(243, 242, 255);
     color: #f1f1f1;
     position: fixed;
+  }
+
+  .container{
+      padding-top: 16px;
   }
