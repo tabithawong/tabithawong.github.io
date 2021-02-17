@@ -65,6 +65,11 @@ ul.posts li {
     max-width: 200;
     height: auto;
 }
+
+#contact {
+    font-size: 1.00em;
+}
+
 #special {
     font-size: 1.75em;
     font-weight: bold;
