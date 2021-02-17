@@ -67,7 +67,6 @@ ul.posts li {
 }
 
 #contact {
-    display: inline;
     font-size: 1.00em;
 }
 
@@ -141,8 +140,3 @@ ul.posts li {
   
   /* Change the background color of the dropdown button when the dropdown content is shown */
   .dropdown:hover .dropbtn {background-color: rgb(243, 242, 255);}
-
-  #topbutton {
-      justify-content:flex-end;
-      display: inline-flex;
-  }
