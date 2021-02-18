@@ -90,6 +90,8 @@ ul.posts li {
 }
 
 #topbutton {
+    font-family: 'Helvetica';
+    font-size: 1.4em;
     float: right;
 }
 
