@@ -84,9 +84,19 @@ ul.posts li {
     max-width: 50;
     height: auto;
 }
+
 #pages {
     float: right;
 }
+
+#topbutton {
+    justify-content: flex-end;
+}
+
+#contactlabel {
+    font-size: 1.4em;
+}
+
 .growimg {
     transition: all .2s ease-in-out;
     width: 100;
