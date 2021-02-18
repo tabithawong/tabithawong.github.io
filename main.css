@@ -90,7 +90,7 @@ ul.posts li {
 }
 
 #topbutton {
-    justify-content: flex-end;
+    float: right;
 }
 
 #contactlabel {
